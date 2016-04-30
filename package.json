@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "speaker": "^0.2.6",
-    "web-audio-api": "^0.2.2"
+    "web-audio-api": "^0.2.2",
+    "web-audio-engine": "^0.8.3"
   }
 }
